@@ -18,6 +18,8 @@ Advertising Ops ships the **`advertising-ops`** skill: a single command that run
 
 Built for founders, agency operators, and media buyers who want to template what already works instead of guessing at a blank ad account.
 
+Step-by-step guide and setup walkthrough: [Advertising Ops guide on charlieautomates.com](https://charlieautomates.com/free-resources/#advertising-ops)
+
 ---
 
 ## Why
