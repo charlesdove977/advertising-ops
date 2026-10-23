@@ -18,6 +18,8 @@ Advertising Ops ships the **`advertising-ops`** skill: a single command that run
 
 Built for founders, agency operators, and media buyers who want to template what already works instead of guessing at a blank ad account.
 
+**Want your ad buying run for you?** Join [CC Strategic AI +](https://www.skool.com/cc-strategic-ai-plus/about): my 27-day Claude Code mastery program with a 1-click install setup file, and you work with us to land your first AI client in 90 days, or your money back.
+
 Step-by-step guide and setup walkthrough: [Advertising Ops guide on charlieautomates.com](https://charlieautomates.com/free-resources/#advertising-ops)
 
 ---
